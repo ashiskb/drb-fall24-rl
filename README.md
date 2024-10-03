@@ -1,7 +1,7 @@
 ## Dr. B's fall 2024 Reinforcement Learning class workspace
 
 ### Week-07 activities (9/30-10/4)
-* Please study the `model-free algorithms` and relevant coding exercises.
+* Please study the `model-based algorithms` and relevant coding exercises.
 
 
 ### Week-06 activities (9/23-9/27)
