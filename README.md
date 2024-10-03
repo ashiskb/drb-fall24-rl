@@ -1,4 +1,8 @@
-## Dr. B's fall 2024 Reinforcement Learning class workspacde
+## Dr. B's fall 2024 Reinforcement Learning class workspace
+
+### Week-07 activities (9/30-10/4)
+* Please study the `model-free algorithms` and relevant coding exercises.
+
 
 ### Week-06 activities (9/23-9/27)
 * The following ativities are prepared based on the textbook `Sanghi, N. (2024). Deep reinforcement learning with python. Springer.` (Chapter 2: The Foundation: Markov Decision Processes)
